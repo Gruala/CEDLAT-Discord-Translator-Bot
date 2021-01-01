@@ -1,0 +1,7 @@
+{
+  "name": "CEDLAT-Discord-Translator",
+  "description": "🤖 Discord translator, Bot built with discord.js // Universal translator using Google translator. Programmed in Javascrip.",
+  "repository": "https://github.com/Gruala/CEDLAT-Discord-Translator",
+  "logo": "https://cedlat.org/wp-content/uploads/2019/06/cropped-LOGO-CEDLAT.png",
+  "keywords": ["discord", "discordjs", "translator", "Translate", "bot"]
+}
