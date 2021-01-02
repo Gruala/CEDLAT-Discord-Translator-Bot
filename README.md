@@ -190,9 +190,49 @@ Spanish Commands:
 :t version
 ```
 
+## ⚙️ Translator's commandos:  //  Comandos del traductor: 
+```
+Learn how to use the translator: // Aprender a usar el traductor:
+:t sp .......... hi all ....................... Hola a todos
+:t sp .......... Bonjour à tous ..... Buenos días a todos
+:t en .......... hola ........................ Hello
+:t en .......... Bonjour à tous .... Hello everyone
+:t fr ............ hola a todos ........ Bonjour à tous
+:t fr ............ hi all ...................... Salut à tous
+:t de .......... hi ............................ Hallo
+:t sp,fr ...... hi all ....................... Hola a todos
+...................................................... Bonjour à tous
+:t en,fr ...... Hola a todos ........ hi all
+...................................................... Bonjour à tous
+:t en,sp .... Bonjour à tous ..... hi all
+...................................................... Hola a todos
+:t sp,fr,pt .. hi all ....................... Hola a todos
+...................................................... Bonjour à tous
+...................................................... Olá a todos
+
+Available languages: // Idiomas disponibles:
+:t en = :t english
+:t fr = :t french
+:t de = :t german
+:t hi = :t hindi
+:t ja = :t jp = :t japanese = :t 日本語
+:t pt = :t portuguese
+:t ro = :t romanian
+:t ru = :t russian
+:t sp = :t es = :t spanish
+:t zh-cn = :t chinese-simplified
+:t zh-tw = :t chinese-traditional
+
+Command to view the full list of languages: // Comando para ver la lista completa de idiomas:
+:t languages
+```
+
+
 ## ⚙️ Use TS Channel:  //  Usar TS Channel 
 The TS function is used to automatically translate into all the languages you want. No need to call any commands.
+
 1.- Create a text channel group.
+
 2.- In the channel theme place TS- and the language you want to translate automatically: 
 ```
 Example of the Spanish channel: 
@@ -213,7 +253,9 @@ Channel theme: ts-french
 3.- You can have different groups translating independently. Each server would also be independent.
 
 La función TS se usa para traducir de forma automática en todos los idiomas que quieras. Sin necesidad de llamar a ningún comando.
+
 1.- Crea un grupo de canal de texto.
+
 2.- En el tema del canal coloca TS- y el idioma que deseas traducir automáticamente: 
 ```
 Ejemplo del canal español: 
