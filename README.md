@@ -110,9 +110,9 @@ Enter the directory: // Entra en el directorio:
 ```
 
 
-Allows users and moderators to use commands. Turns on blacklisting.
+Allows users and moderators to use commands. Turns on blacklisting...
 
-Permite que los usuarios y  moderadores usen los comandos. Activa el uso de la lista negra.
+Permite que los usuarios y  moderadores usen los comandos. Activa el uso de la lista negra...
 ```
 ./commands_function/config_command.json`
 ```
@@ -133,7 +133,7 @@ This command is very good for cleaning channels.
 Cuando llamas al comando de borrado, se borrara las primeras 100 líneas de texto de ese canal menos las que contenga ese carácter en el texto.
 Este comando es muy bueno para limpiar los canales.
 
-## ⚙️ Administrador, Moderador, sers and Blacklist // Administrador, Moderador, Usuarios y Lista negra
+## ⚙️ Administrador, Moderador, Users and Blacklist // Administrador, Moderador, Usuarios y Lista negra
 Enter the directory: // Entra en el directorio: 
 ```
 ./admin
