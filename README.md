@@ -61,8 +61,9 @@ Modify the file where you have the data to start the bot, update the Token. Owne
 Modifica el fichero donde tienes los datos para iniciar el bot, actualiza el Token. El OWNER es solo informativo, solo lo verían los administradores. Pon tus valores personalizados. 
 
 ⚠️ **Nota: Nunca confirme ni comparta públicamente su TOKEN, OWNER o claves api** ⚠️
-
-`./config_connection/config_connection_Example1.json`
+```
+./config_connection/config_connection_Example1.json
+```
 
 ```
 {
@@ -84,7 +85,9 @@ Edit the file and set your parameters. The maximum text to be translated is 2000
 Edita el fichero y pon tus parámetros. El texto máximo a traducir son de 2000 letras, coloca un número inferior a 1920:
 ```
 ./config_connection/config_translate.json
+```
 
+```
 {
  "TRANSLATOR_Enabled": true,
  "TSCHANNELS_Enabled": true,
@@ -105,7 +108,9 @@ Allows users and moderators to use commands. Turns on blacklisting.
 Permite que los usuarios y  moderadores usen los comandos. Activa el uso de la lista negra.
 ```
 ./commands_function/config_command.json`
+```
 
+```
 {
  "COMMAND_USER_Enabled": true,
  "COMMAND_MODERATOR_Enabled": true,
@@ -122,10 +127,11 @@ Enter the directory: // Entra en el directorio:
 
 Select the file with the translation. Only Spanish and English work for now.
 Selecciona el fichero con la traducción. Solo funciona por ahora el Español y el ingles.
+```
+./languages/Config_Language.js
+```
 
 ```
-`./languages/Config_Language.js`
-
   //config = require("./Language_Chinese.json");
   //config = require("./Language_Czech.json");
   //config = require("./Language_English.json");
