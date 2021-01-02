@@ -64,23 +64,23 @@ Modifica el fichero donde tienes los datos para iniciar el bot, actualiza el Tok
 
 `./config_connection/config_connection_Example1.json`
 
+```
 {
     "TOKEN": "NTY5GFDLGTOFDFTYTA4MjU2MjE1MDU5.XLOmcQ.wqwzsdfcdsfgyrsEb_CtpFfOuY",
     "OWNER": ["456456456256215059"],
     "PLAYSTATUS": "Ayuda: :t ayuda",
     "PREFIX": ":t"
 }
+```
 
 
 ## ⚙️ File configuration: config_translate.json
+```
 Enter the directory: // Entra en el directorio: 
-
 `./translate`
-
 
 Edit the file and set your parameters. The maximum text to be translated is 2000 letters, it places a number less than 1920:
 Edita el fichero y pon tus parámetros. El texto máximo a traducir son de 2000 letras, coloca un número inferior a 1920:
-
 `./config_connection/config_translate.json`
 
 {
@@ -90,16 +90,16 @@ Edita el fichero y pon tus parámetros. El texto máximo a traducir son de 2000 
  "MAX_TRANSLATE": 1920,
  "MAX_TEXT_ICON": 200
 }
-
+```
 
 ## ⚙️ File commands: config_command.json
+```
 Enter the directory: // Entra en el directorio: 
-
 `./commands_function`
+
 
 Allows users and moderators to use commands. Turns on blacklisting.
 Permite que los usuarios y  moderadores usen los comandos. Activa el uso de la lista negra.
-
 `./commands_function/config_command.json`
 
 {
@@ -108,7 +108,7 @@ Permite que los usuarios y  moderadores usen los comandos. Activa el uso de la l
  "COMMAND_BLACK_Enabled": true,
  "STRING_TEXT_NO_CLEAR": "{"
 }
-
+```
 
 ## ⚙️ File commands: config_command.json
 Enter the directory: // Entra en el directorio: 
@@ -118,8 +118,8 @@ Enter the directory: // Entra en el directorio:
 Select the file with the translation. Only Spanish and English work for now.
 Selecciona el fichero con la traducción. Solo funciona por ahora el Español y el ingles.
 
+```
 `./languages/Config_Language.js`
-
   //config = require("./Language_Chinese.json");
   //config = require("./Language_Czech.json");
   //config = require("./Language_English.json");
@@ -130,21 +130,18 @@ Selecciona el fichero con la traducción. Solo funciona por ahora el Español y 
   //config = require("./Language_Russian.json");
   config = require("./Language_Spanish.json");
   //config = require("./Language_Ukrainian.json");
-
+```
 
 ## ⚙️ Commands: 
+```
 List of commands: // Lista de comandos: 
-
 `:t help` o `:t ayuda`
 
 Supported languages // Idiomas soportados
-
 `:t languages`
 
 Ejemplos para usar el traductor // Examples to use the translator
-
 `:t translation` o `:t traduccion`
-
 
 Spanish Commands:
 :t act_black_list
@@ -165,7 +162,7 @@ Spanish Commands:
 :t traduccion
 :t tiempo_activo
 :t version
-
+```
 
 ## ⚙️ Use TS Channel:  //  Usar TS Channel 
 List of command
