@@ -40,18 +40,21 @@ npm install -g npm        `Install a new version of the npm // Instala una nueva
 
 ## ⚙️ File configuration: config_connection_Example1.json
 Enter the directory: // Entra en el directorio: 
-
-`./config_connection`
+```
+./config_connection
+```
 
 
 Edit the file: // Edita el fichero: 
-
-`./config_connection/Config_Connection.js`
+```
+./config_connection/Config_Connection.js
+```
 
 
 Select the file name that will have the JSON data where the configuration is: // Selecciona el nombre de fichero que tendrá los datos JSON donde esta la configuración:
-
-`config = require("./config_connection_Example1.json");`
+```
+config = require("./config_connection_Example1.json");
+```
 
 
 Modify the file where you have the data to start the bot, update the Token. Owner is for informational purposes only, only administrators would see it. Set your custom values.
@@ -80,6 +83,7 @@ Enter the directory: // Entra en el directorio:
 ```
 ./translate
 ```
+
 
 Edit the file and set your parameters. The maximum text to be translated is 2000 letters, it places a number less than 1920:
 Edita el fichero y pon tus parámetros. El texto máximo a traducir son de 2000 letras, coloca un número inferior a 1920:
