@@ -86,6 +86,7 @@ Enter the directory: // Entra en el directorio:
 
 
 Edit the file and set your parameters. The maximum text to be translated is 2000 letters, it places a number less than 1920:
+
 Edita el fichero y pon tus parámetros. El texto máximo a traducir son de 2000 letras, coloca un número inferior a 1920:
 ```
 ./config_connection/config_translate.json
@@ -110,6 +111,7 @@ Enter the directory: // Entra en el directorio:
 
 
 Allows users and moderators to use commands. Turns on blacklisting.
+
 Permite que los usuarios y  moderadores usen los comandos. Activa el uso de la lista negra.
 ```
 ./commands_function/config_command.json`
