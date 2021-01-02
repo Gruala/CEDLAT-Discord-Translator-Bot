@@ -4,7 +4,10 @@
 
 # 🤖 CEDLAT-Discord-Translator-Bot (Discord Translator Bot)
 > 🤖 Discord translator, Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
+
 > 🤖 Universal translator using Google translator. Programmed in Javascrip.
+
+> 🤖 This translator works with 102 languages.
 
 
 ## Requirements // Requisitos
@@ -44,18 +47,15 @@ Enter the directory: // Entra en el directorio:
 ./config_connection
 ```
 
-
 Edit the file: // Edita el fichero: 
 ```
 ./config_connection/Config_Connection.js
 ```
 
-
 Select the file name that will have the JSON data where the configuration is: // Selecciona el nombre de fichero que tendrá los datos JSON donde esta la configuración:
 ```
 config = require("./config_connection_Example1.json");
 ```
-
 
 Modify the file where you have the data to start the bot, update the Token. Owner is for informational purposes only, only administrators would see it. Set your custom values.
 
@@ -130,6 +130,7 @@ Enter the directory: // Entra en el directorio:
 ```
 
 Select the file with the translation. Only Spanish and English work for now.
+
 Selecciona el fichero con la traducción. Solo funciona por ahora el Español y el ingles.
 ```
 ./languages/Config_Language.js
@@ -163,7 +164,8 @@ Supported languages // Idiomas soportados
 
 Ejemplos para usar el traductor // Examples to use the translator
 ```
-:t translation // :t traduccion
+:t translation
+:t traduccion
 ```
 
 Spanish Commands:
@@ -189,7 +191,47 @@ Spanish Commands:
 ```
 
 ## ⚙️ Use TS Channel:  //  Usar TS Channel 
-List of command
+The TS function is used to automatically translate into all the languages you want. No need to call any commands.
+1.- Create a text channel group.
+2.- In the channel theme place TS- and the language you want to translate automatically: 
+```
+Example of the Spanish channel: 
+Channel name: Spanish-text (any name)
+Channel theme: ts-spanish
+```
+```
+Example of the English channel: 
+Channel name: english-text (any name)
+Channel theme: ts-english
+```
+```
+Example of the Frances channel: 
+Number del channel: French-text (cualquier number)
+Channel theme: ts-french
+```
+
+3.- You can have different groups translating independently. Each server would also be independent.
+
+La función TS se usa para traducir de forma automática en todos los idiomas que quieras. Sin necesidad de llamar a ningún comando.
+1.- Crea un grupo de canal de texto.
+2.- En el tema del canal coloca TS- y el idioma que deseas traducir automáticamente: 
+```
+Ejemplo del canal español: 
+Nombre del canal: español-text (cualquier nombre)
+Tema del canal: ts-spanish
+```
+```
+Ejemplo del canal Ingles: 
+Nombre del canal: english-text (cualquier nombre)
+Tema del canal: ts-english
+``
+```
+Ejemplo del canal Frances: 
+Nombre del canal: français-texte (cualquier nombre)
+Tema del canal: ts-french
+```
+
+3.- Puedes tener diferentes grupos traduciéndose independientemente. Cada servidor seria también independiente.
 
 
 ## 🤝 Contributing // Contribuyendo
