@@ -310,7 +310,7 @@ Tema del canal: ts-spanish
 Ejemplo del canal Ingles: 
 Nombre del canal: english-text (cualquier nombre)
 Tema del canal: ts-english
-``
+```
 ```
 Ejemplo del canal Frances: 
 Nombre del canal: français-texte (cualquier nombre)
