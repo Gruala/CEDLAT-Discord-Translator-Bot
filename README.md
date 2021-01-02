@@ -40,11 +40,13 @@ npm install -g npm        `Install a new version of the npm // Instala una nueva
 
 ## ⚙️ File configuration: config_connection_Example1.json
 Enter the directory: // Entra en el directorio: 
-```./config_connection```
+
+`./config_connection`
 
 
 Edit the file: // Edita el fichero: 
-```./config_connection/Config_Connection.js```
+
+`./config_connection/Config_Connection.js`
 
 
 Select the file name that will have the JSON data where the configuration is: // Selecciona el nombre de fichero que tendrá los datos JSON donde esta la configuración:
@@ -73,13 +75,15 @@ Modifica el fichero donde tienes los datos para iniciar el bot, actualiza el Tok
 
 
 ## ⚙️ File configuration: config_translate.json
-```
 Enter the directory: // Entra en el directorio: 
-`./translate`
+```
+./translate
+```
 
 Edit the file and set your parameters. The maximum text to be translated is 2000 letters, it places a number less than 1920:
 Edita el fichero y pon tus parámetros. El texto máximo a traducir son de 2000 letras, coloca un número inferior a 1920:
-`./config_connection/config_translate.json`
+```
+./config_connection/config_translate.json
 
 {
  "TRANSLATOR_Enabled": true,
@@ -91,14 +95,16 @@ Edita el fichero y pon tus parámetros. El texto máximo a traducir son de 2000 
 ```
 
 ## ⚙️ File commands: config_command.json
-```
 Enter the directory: // Entra en el directorio: 
-`./commands_function`
+```
+./commands_function
+```
 
 
 Allows users and moderators to use commands. Turns on blacklisting.
 Permite que los usuarios y  moderadores usen los comandos. Activa el uso de la lista negra.
-`./commands_function/config_command.json`
+```
+./commands_function/config_command.json`
 
 {
  "COMMAND_USER_Enabled": true,
@@ -110,14 +116,16 @@ Permite que los usuarios y  moderadores usen los comandos. Activa el uso de la l
 
 ## ⚙️ File commands: config_command.json
 Enter the directory: // Entra en el directorio: 
-
-`./languages`
+```
+./languages
+```
 
 Select the file with the translation. Only Spanish and English work for now.
 Selecciona el fichero con la traducción. Solo funciona por ahora el Español y el ingles.
 
 ```
 `./languages/Config_Language.js`
+
   //config = require("./Language_Chinese.json");
   //config = require("./Language_Czech.json");
   //config = require("./Language_English.json");
@@ -131,17 +139,25 @@ Selecciona el fichero con la traducción. Solo funciona por ahora el Español y 
 ```
 
 ## ⚙️ Commands: 
-```
 List of commands: // Lista de comandos: 
-`:t help` o `:t ayuda`
+```
+:t help
+:t ayuda
+```
 
 Supported languages // Idiomas soportados
-`:t languages`
+```
+:t languages
+```
+
 
 Ejemplos para usar el traductor // Examples to use the translator
-`:t translation` o `:t traduccion`
+```
+:t translation // :t traduccion
+```
 
 Spanish Commands:
+```
 :t act_black_list
 :t act_moderadores
 :t act_usuarios
