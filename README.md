@@ -1,4 +1,4 @@
-[![Deploy](https://cedlat.org/)](https://github.com/Gruala/)
+[![Deploy // Desarrollado](https://cedlat.org/)](https://github.com/Gruala/)
 
 ![logo](https://cedlat.org/wp-content/uploads/2019/06/cropped-LOGO-CEDLAT.png)
 
