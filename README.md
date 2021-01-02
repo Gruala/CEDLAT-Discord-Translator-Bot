@@ -123,6 +123,13 @@ Permite que los usuarios y  moderadores usen los comandos. Activa el uso de la l
 }
 ```
 
+When you call the delete command, the first 100 lines of text in that channel will be cleared minus those contained in that character in the text.
+This command is very good for cleaning channels.
+
+
+Cuando llamas al comando de borrado, se borrara las primeras 100 líneas de texto de ese canal menos las que contenga ese carácter en el texto.
+Este comando es muy bueno para limpiar los canales.
+
 ## ⚙️ File commands: config_command.json
 Enter the directory: // Entra en el directorio: 
 ```
