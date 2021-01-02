@@ -40,13 +40,11 @@ npm install -g npm        `Install a new version of the npm // Instala una nueva
 
 ## ⚙️ File configuration: config_connection_Example1.json
 Enter the directory: // Entra en el directorio: 
-
-`./config_connection`
+```./config_connection```
 
 
 Edit the file: // Edita el fichero: 
-
-`./config_connection/Config_Connection.js`
+```./config_connection/Config_Connection.js```
 
 
 Select the file name that will have the JSON data where the configuration is: // Selecciona el nombre de fichero que tendrá los datos JSON donde esta la configuración:
