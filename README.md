@@ -101,6 +101,7 @@ Edita el fichero y pon tus parámetros. El texto máximo a traducir son de 2000 
 }
 ```
 
+
 ## ⚙️ File commands: config_command.json
 Enter the directory: // Entra en el directorio: 
 ```
@@ -129,6 +130,40 @@ This command is very good for cleaning channels.
 
 Cuando llamas al comando de borrado, se borrara las primeras 100 líneas de texto de ese canal menos las que contenga ese carácter en el texto.
 Este comando es muy bueno para limpiar los canales.
+
+## ⚙️ Administrador, Moderador, sers and Blacklist // Administrador, Moderador, Usuarios y Lista negra
+Enter the directory: // Entra en el directorio: 
+```
+./admin
+```
+
+List of users. // Lista de usuarios
+```
+./admin/config_admin.json
+{
+    "ADMINS": [ 
+        "Admin#0000",
+        "Admin2#0000" 
+    ]
+}
+
+./admin/config_moderator.json
+{
+ "MODERATOR": [
+  "Adrian#0000",
+  "Adrian2#0000"
+ ]
+}
+
+./admin/config_black_list.json
+{
+ "BLACK_LIST": [
+  "blacklist#0000",
+  "blacklist2#0000"
+ ]
+}
+
+```
 
 ## ⚙️ File commands: config_command.json
 Enter the directory: // Entra en el directorio: 
