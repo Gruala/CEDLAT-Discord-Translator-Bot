@@ -1,0 +1,410 @@
+{
+  "ko": {
+    "alias": ["ko", "korean"],
+    "flag": "kr"
+  },
+  "ar": {
+    "alias": ["ar", "arabic"],
+    "flag": "sa"
+  },
+  "af": {
+    "alias": ["af", "afrikaans"],
+    "flag": "za"
+  },
+  "sq": {
+    "alias": ["sq", "albanian"],
+    "flag": "al"
+  },
+  "hy": {
+    "alias": ["hy", "armenian"],
+    "flag": "am"
+  },
+  "eu": {
+    "alias": ["eu", "basque"],
+    "flag": "fr"
+  },
+  "be": {
+    "alias": ["be", "belarusian"],
+    "flag": "by"
+  },
+  "bn": {
+    "alias": ["bn", "bengali"],
+    "flag": "bd"
+  },
+  "bs": {
+    "alias": ["bs", "bosnian"],
+    "flag": "ba"
+  },
+  "bg": {
+    "alias": ["bg", "bulgarian"],
+    "flag": "bg"
+  },
+  "ca": {
+    "alias": ["ca", "catalan"],
+    "flag": "ad"
+  },
+  "ceb": {
+    "alias": ["ceb", "cebuano"],
+    "flag": "ph"
+  },
+  "ny": {
+    "alias": ["ny", "chichewa"],
+    "flag": "zw"
+  },
+  "zh-cn": {
+    "alias": ["zh-cn", "chinese-simplified"],
+    "flag": "cn"
+  },
+  "zh-tw": {
+    "alias": ["zh-tw", "chinese-traditional"],
+    "flag": "cn"
+  },
+  "co": {
+    "alias": ["co", "corsican"],
+    "flag": "it"
+  },
+  "hr": {
+    "alias": ["hr", "croatian"],
+    "flag": "hr"
+  },
+  "cz": {
+    "alias": ["cz", "czech"],
+    "flag": "cz"
+  },
+  "da": {
+    "alias": ["da", "danish"],
+    "flag": "dk"
+  },
+  "nl": {
+    "alias": ["nl", "dutch"],
+    "flag": "nl"
+  },
+  "en": {
+    "alias": ["en", "english"],
+    "flag": "um"
+  },
+  "eo": {
+    "alias": ["eo", "esperanto"],
+    "flag": "hu"
+  },
+  "et": {
+    "alias": ["et", "estonian"],
+    "flag": "ee"
+  },
+  "tl": {
+    "alias": ["tl", "filipino"],
+    "flag": "ph"
+  },
+  "fi": {
+    "alias": ["fi", "finnish"],
+    "flag": "fi"
+  },
+  "fr": {
+    "alias": ["fr", "french"],
+    "flag": "fr"
+  },
+  "fy": {
+    "alias": ["fy", "frisian"],
+    "flag": "nl"
+  },
+  "gl": {
+    "alias": ["gl", "galician"],
+    "flag": "ea"
+  },
+  "ka": {
+    "alias": ["ka", "georgian"],
+    "flag": "ge"
+  },
+  "de": {
+    "alias": ["de", "german"],
+    "flag": "de"
+  },
+  "el": {
+    "alias": ["el", "greek"],
+    "flag": "gr"
+  },
+  "gu": {
+    "alias": ["gu", "gujarati"],
+    "flag": "in"
+  },
+  "ht": {
+    "alias": ["ht", "haitian"],
+    "flag": "ht"
+  },
+  "ha": {
+    "alias": ["ha", "hausa"],
+    "flag": "ne"
+  },
+  "haw": {
+    "alias": ["haw", "hawaiian"],
+    "flag": "um"
+  },
+  "iw": {
+    "alias": ["iw", "hebrew"],
+    "flag": "il"
+  },
+  "hi": {
+    "alias": ["hi", "hindi"],
+    "flag": "in"
+  },
+  "hmn": {
+    "alias": ["hmn", "hmong"],
+    "flag": "cn"
+  },
+  "hu": {
+    "alias": ["hu", "hungarian"],
+    "flag": "hu"
+  },
+  "is": {
+    "alias": ["is", "icelandic"],
+    "flag": "is"
+  },
+  "ig": {
+    "alias": ["ig", "igbo"],
+    "flag": "ng"
+  },
+  "id": {
+    "alias": ["id", "indonesian"],
+    "flag": "id"
+  },
+  "ga": {
+    "alias": ["ga", "irish"],
+    "flag": "ie"
+  },
+  "it": {
+    "alias": ["it", "italian"],
+    "flag": "it"
+  },
+  "ja": {
+    "alias": ["ja", "jp", "japanese", "日本語"],
+    "flag": "jp"
+  },
+  "jw": {
+    "alias": ["jw", "javanese"],
+    "flag": "id"
+  },
+  "kn": {
+    "alias": ["kn", "kannada"],
+    "flag": "in"
+  },
+  "kk": {
+    "alias": ["kk", "kazakh"],
+    "flag": "kz"
+  },
+  "km": {
+    "alias": ["km", "khmer"],
+    "flag": "kh"
+  },
+  "ku": {
+    "alias": ["ku", "kurdish"],
+    "flag": "tr"
+  },
+  "ky": {
+    "alias": ["ky", "kyrgyz"],
+    "flag": "cn"
+  },
+  "lo": {
+    "alias": ["lo", "lao"],
+    "flag": "la"
+  },
+  "la": {
+    "alias": ["la", "latin"],
+    "flag": "va"
+  },
+  "lv": {
+    "alias": ["lv", "latvian"],
+    "flag": "lv"
+  },
+  "lt": {
+    "alias": ["lt", "lithuanian"],
+    "flag": "lt"
+  },
+  "lb": {
+    "alias": ["lb", "luxembourgish"],
+    "flag": "lu"
+  },
+  "mk": {
+    "alias": ["mk", "macedonian"],
+    "flag": "mk"
+  },
+  "mg": {
+    "alias": ["mg", "malagasy"],
+    "flag": "mg"
+  },
+  "ms": {
+    "alias": ["ms", "malay"],
+    "flag": "id"
+  },
+  "ml": {
+    "alias": ["ml", "malayalam"],
+    "flag": "in"
+  },
+  "mt": {
+    "alias": ["mt", "maltese"],
+    "flag": "mt"
+  },
+  "mi": {
+    "alias": ["mi", "maori"],
+    "flag": "nz"
+  },
+  "mr": {
+    "alias": ["mr", "marathi"],
+    "flag": "in"
+  },
+  "mn": {
+    "alias": ["mn", "mongolian"],
+    "flag": "mn"
+  },
+  "my": {
+    "alias": ["my", "myanmar"],
+    "flag": "mm"
+  },
+  "ne": {
+    "alias": ["ne", "nepali"],
+    "flag": "np"
+  },
+  "no": {
+    "alias": ["no", "norwegian"],
+    "flag": "no"
+  },
+  "ps": {
+    "alias": ["ps", "pashto"],
+    "flag": "af"
+  },
+  "fa": {
+    "alias": ["fa", "persian"],
+    "flag": "ir"
+  },
+  "pl": {
+    "alias": ["pl", "polish"],
+    "flag": "pl"
+  },
+  "pt": {
+    "alias": ["pt", "portuguese"],
+    "flag": "br"
+  },
+  "ma": {
+    "alias": ["ma", "punjabi"],
+    "flag": "pk"
+  },
+  "ro": {
+    "alias": ["ro", "romanian"],
+    "flag": "ro"
+  },
+  "ru": {
+    "alias": ["ru", "russian"],
+    "flag": "ru"
+  },
+  "sm": {
+    "alias": ["sm", "samoan"],
+    "flag": "ws"
+  },
+  "gd": {
+    "alias": ["gd", "scots-gaelic"],
+    "flag": "gb"
+  },
+  "sr": {
+    "alias": ["sr", "serbian"],
+    "flag": "rs"
+  },
+  "st": {
+    "alias": ["st", "sesotho"],
+    "flag": "ls"
+  },
+  "sn": {
+    "alias": ["sn", "shona"],
+    "flag": "zw"
+  },
+  "sd": {
+    "alias": ["sd", "sindhi"],
+    "flag": "pk"
+  },
+  "si": {
+    "alias": ["si", "sinhala"],
+    "flag": "lk"
+  },
+  "sk": {
+    "alias": ["sk", "slovak"],
+    "flag": "sk"
+  },
+  "sl": {
+    "alias": ["sl", "slovenian"],
+    "flag": "si"
+  },
+  "so": {
+    "alias": ["so", "somali"],
+    "flag": "so"
+  },
+  "es": {
+    "alias": ["sp", "es", "spanish"],
+    "flag": "es"
+  },
+  "su": {
+    "alias": ["su", "sudanese"],
+    "flag": "sd"
+  },
+  "sw": {
+    "alias": ["sw", "swahili"],
+    "flag": "ke"
+  },
+  "sv": {
+    "alias": ["sv", "swedish"],
+    "flag": "se"
+  },
+  "tg": {
+    "alias": ["tg", "tajik"],
+    "flag": "af"
+  },
+  "ta": {
+    "alias": ["ta", "tamil"],
+    "flag": "in"
+  },
+  "te": {
+    "alias": ["te", "telugu"],
+    "flag": "in"
+  },
+  "th": {
+    "alias": ["th", "thai"],
+    "flag": "th"
+  },
+  "tr": {
+    "alias": ["tr", "turkish"],
+    "flag": "tr"
+  },
+  "uk": {
+    "alias": ["uk", "ukrainian"],
+    "flag": "ua"
+  },
+  "ur": {
+    "alias": ["ur", "urdu"],
+    "flag": "pk"
+  },
+  "uz": {
+    "alias": ["uz", "uzbek"],
+    "flag": "uz"
+  },
+  "vi": {
+    "alias": ["vi", "vietnamese"],
+    "flag": "vn"
+  },
+  "cy": {
+    "alias": ["cy", "welsh"],
+    "flag": "gb"
+  },
+  "xh": {
+    "alias": ["xh", "xhosa"],
+    "flag": "za"
+  },
+  "yi": {
+    "alias": ["yi", "yiddish"],
+    "flag": "il"
+  },
+  "yo": {
+    "alias": ["yo", "yoruba"],
+    "flag": "ng"
+  },
+  "zu": {
+    "alias": ["zu", "zulu"],
+    "flag": "za"
+  }
+}

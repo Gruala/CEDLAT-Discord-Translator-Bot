@@ -1,0 +1,7 @@
+{
+ "TRANSLATOR_Enabled": true,
+ "TSCHANNELS_Enabled": true,
+ "SEPARATE_LANGUAGE": ",",
+ "MAX_TRANSLATE": 1920,
+ "MAX_TEXT_ICON": 200
+}

@@ -1,0 +1,28 @@
+{
+  "name": "translate-bot",
+  "version": "5.1.9",
+  "description": "Translates messages to tons of different languages",
+  "main": "app.js",
+  "scripts": {
+    "run": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/"
+  },
+  "keywords": [
+    "Translate"
+  ],
+  "author": "CEDLAT: Marcos_MMA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/"
+  },
+  "homepage": "https://cedlat.org/",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "google-translate-api": "github:AlooAkbar/google-translate-api",
+    "japanese": "^1.2.0",
+    "os-toolbox": "^0.2.10"
+  }
+}
