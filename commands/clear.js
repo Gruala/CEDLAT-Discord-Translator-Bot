@@ -7,7 +7,7 @@ const {STRING_TEXT_NO_CLEAR} = require("../commands_function/config_command.json
 
 module.exports = {
     name: `${Command_clear_0}`,
-    //cooldown: 3,
+    cooldown: 3,
     aliases: [`${Command_clear_1}`],
     description: `${Command_clear_2} ${STRING_TEXT_NO_CLEAR}`,
     async execute(message, args, client, GENERAL_ENABLED) {
