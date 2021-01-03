@@ -93,7 +93,7 @@
     "Command_add_moderator_2":"Solo Admin: Agrega usuario a la lista de moderadores.",
     "Command_add_moderator_3":"Uso:",
     "Command_add_moderator_4":"<Nombre de usuario. Ejemplo: Adrian#4474>",
-    "Command_clear_0":"Borrar", 
+    "Command_clear_0":"borrar", 
     "Command_clear_1":"clear",
     "Command_clear_2":"Solo Admin/Moderadores: Borra todos los msg del canal menos los que tengan la letra clave:",   
     "Command_connection_0":"connexion", 
